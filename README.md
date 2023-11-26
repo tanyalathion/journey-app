@@ -7,5 +7,5 @@ So I want to offer them a closed mobile platform :closed_lock_with_key: :iphone:
 ### :metal: The challenge
 The app has to be as fun to use for their geeky buddies as it is easy for grandma! :exploding_head:
 
-## Credits
+### Credits
 Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
