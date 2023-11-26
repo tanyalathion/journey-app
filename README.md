@@ -1,6 +1,6 @@
 # Journey blog app
 This app is a christmas gift to my brother :christmas_tree:
-On January, he ans his finacea :couplekiss: are gonna travel around the world for 6 month :earth_africa:
+On January, he and his finacea :couplekiss: are gonna travel around the world for 6 month :earth_africa:
 
 So I want to offer them a closed mobile platform :closed_lock_with_key: :iphone: where they can easily share their trip with friends and family.
 
